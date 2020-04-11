@@ -1,3 +1,3 @@
 <?php
-$raflipedia = 'gorenganfb@gmail.com'; 
+$raflipedia = 'balbal230504@gmail.com'; 
 ?>
